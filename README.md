@@ -8,5 +8,5 @@ To run the thing we made. open up the .ppsx in the root folder.
 - Omar Radwan
 - John Li
 - Aman Mahtar
-- Robbert
+- Robert Briggs
 - Conner
