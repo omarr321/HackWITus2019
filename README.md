@@ -9,4 +9,4 @@ To run the thing we made. open up the .ppsx in the root folder.
 - John Li
 - Aman Mahtar
 - Robert Briggs
-- Conner
+- Connor Andrews
